@@ -27,7 +27,9 @@ Developers:
 * Integrating the cloudinary API to fetch the folders and images from the CDN
 * Design & implement the main screen grid to display the recent wallpapers as the MainActivity
 * Design & implement the wallpaper view for the application with support for download, Crop, set wallpaper and lockscreen. 
-* Implement pagination on the grid view while accessing the directories & wallpapers
+* Setup [Room](https://developer.android.com/topic/libraries/architecture/room) and [LiveData](https://developer.android.com/topic/libraries/architecture/viewmodel) architecture componenents to store & fetch the app information in the SQLite database 
+* Implement pagination on the grid view while accessing the directories & wallpapers using [Paging Architecture component](https://developer.android.com/topic/libraries/architecture/paging/)
+
 * ...and many more to come
 
 
